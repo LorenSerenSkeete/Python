@@ -1,0 +1,1 @@
+This Python Project demonstrates the coding used to scrape data from a Wikipedia page on the Top 100 Earning Companies in the US. The files include the Python Script used to execute this as well as the table that was produced as a result.
